@@ -1,1 +1,3 @@
 brach é linha do tempo
+git push - envia o que esta no brach para nuvem
+software git é para amarzenar na maquina
